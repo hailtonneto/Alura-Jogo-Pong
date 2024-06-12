@@ -1,7 +1,7 @@
 # 📒 Documentação do Projeto
 
 <p align="justify">
-Projeto desenvolvido durante o curso, Lógica de programação: comece em lógica com o jogo Pong e JavaScript da empresa Alura, a partir do programa Embarque Digital da Prefeitura da Cidade do Recife. Neste curso utilizamos a plataforma p5.js para desenvolver o jogo Pong, um dos primeiros jogos desenvolvidos e que funciona para duas pessoas, realizei etapa por etapa do jogo desde a criação da bolinha e das raquetes, até a criação do sistema de placar e sons.
+Projeto desenvolvido durante o curso, Lógica de programação: comece em lógica com o jogo Pong e JavaScript da empresa Alura, a partir do programa Embarque Digital da Prefeitura da Cidade do Recife. Neste curso utilizei a plataforma p5.js para desenvolver o jogo Pong, um dos primeiros jogos desenvolvidos e que funciona para duas pessoas, realizei etapa por etapa do jogo desde a criação da bolinha e das raquetes, até a criação do sistema de placar e sons.
 </p>
 <br>
 
