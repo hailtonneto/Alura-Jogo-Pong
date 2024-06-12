@@ -16,15 +16,15 @@ Projeto desenvolvido durante o curso, Lógica de programação: comece em lógic
   <img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
-## 🌐 Autor
-
 <br>
+
+## 🌐 Autor
 
 - Hailton de Melo Lima Neto
 
-## 🔗 Preview do Projeto
-
 <br>
+
+## 🔗 Preview do Projeto
 
 <p>
   
